@@ -1,9 +1,7 @@
-// Reverse the provided string.
-
-
-
-// Your result must be a string.
-
+/* 
+1.Reverse the provided string.
+2.Your result must be a string.
+*/
 
 /*
 Pseudocode:
